@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sana Rahmani
 
-<!--
-**sanarhm/sanarhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. in Engineering Physics, Imam Khomeini International University (2026).
+Seeking a funded MSc position in physics.
 
-Here are some ideas to get you started:
+## Research interests
+- Photovoltaic and optoelectronic device physics (lead-free double-perovskite solar cells, interfacial recombination)
+- Photonics and plasmonic sensing
+- Machine learning for physical systems
+- Computational physics and numerical methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- [Pendulum dynamics with RK4](https://github.com/sanarhm/pendulum-numerical-simulation-rk4): chaotic dynamics simulation in Python
+- [Deep learning for optical pattern recognition](https://github.com/sanarhm/Deep-Learning-for-Optical-Pattern-Recognition-and-Phase-Retrieval-in-Engineering-Physics): wavelength prediction from Fraunhofer diffraction patterns using a CNN
+
+## Contact
+- Email: sanaw.rah@gmail.com
+- ORCID: [0009-0009-8556-1803](https://orcid.org/0009-0009-8556-1803)
